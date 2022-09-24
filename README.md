@@ -7,7 +7,7 @@
 **Google Developers Profile link -** https://g.dev/Adarsh14
 
 **Funtionalities Provided**
- - Adding items to list 
+ - Adding items to list using ```add``` button.
  - Total cost based on price and quantity is displayed to user . 
  - Searching for a item in list using ```Search``` button.
  - Deleting items form list using ```Delete``` button.
